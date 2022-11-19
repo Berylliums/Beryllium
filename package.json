@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/contracts-upgradeable": "^4.8.0",
+    "@remix-project/remixd": "^0.6.8",
+    "@truffle/resolver": "^9.0.23",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "ethers": "^6.0.0-beta-exports.6",
+    "snarkjs": "0.5.0",
+    "truffle": "^5.6.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0-dev.20221118"
+  }
+}
